@@ -1,4 +1,4 @@
-package com.alura.foro;
+package com.alura;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,7 @@ public class ForoInicialApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ForoInicialApplication.class, args);
 	}
+
+
 
 }
